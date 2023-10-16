@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.10.6 (2023-16-10)
+* Add new Risco Panel : LightSysPlus by Needles77
+* Change auto reconnect timer socket from 10s to 30s by Needles77
+
+
 ## 0.10.5 (2021-28-11)
 * Merge Pull Requests from Monofin (#12 - Add a 10 second delay between socket connect and RMT command.)
 * Added Debug entry for this wait time. 
